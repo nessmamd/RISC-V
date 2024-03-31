@@ -4,11 +4,6 @@
 
 This exercise aims to help you practice processing C strings using the `lbu` and `sb` instructions. It's strongly recommended to complete Exercises A and B before attempting this one, as they provide useful examples of system call outputs and C string operations with `lbu` and `sb`.
 
-## What to Do
-
-The files required for this exercise are located in `encm369w23lab04/exC`. Begin by reading `string-funcs.c` to understand its functionality. Build and run an executable to verify if the output matches your expectations.
-
-Next, edit the file `string-funcs.asm` to ensure that the assembly-language definitions of `copycat` and `lab4reverse` match their C definitions. If done correctly, the output from the RARS program should match the output from the C program.
 
 ### string-funcs.c
 
