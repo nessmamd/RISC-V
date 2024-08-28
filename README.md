@@ -1,3 +1,6 @@
+## Class Description: 
+In this class, I delved into the intricacies of computer architecture and assembly language programming. I learned about the organization of a simple stored-program computer, covering the CPU, buses, and memory. I gained practical experience with instruction sets, machine code, and assembly language conventions. I focused on bitwise and logical operations, including the creation of `lbu` and `sb` instructions, which enhanced my understanding of how these operations are used in conditional statements and jumps. Additionally, I explored floating-point number representation, hardware organization, address translation, virtual memory, and how input/output devices, computer interfacing, interrupt handling, and multi-tasking systems function. This course deepened my appreciation for low-level programming and the inner workings of computer systems.
+
 # Part 1: Programming with Logical Instructions
 
 ## Read This First
